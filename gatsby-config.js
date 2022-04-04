@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Small Valley Media`,
+    description: `crafted solutions delivering computing power for humans to be personal`,
+    author: `Small Valley Media, LLC`,
+    siteUrl: `https://smallvalleymedia.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
