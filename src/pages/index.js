@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Small Valley Media Homepage" />
-  <h2>Welcome. Our partnership delivers secure and sustainable solutions to achive your business outcomes.</h2> 
+  <h2>Welcome. Our partnership delivers secure and sustainable solutions to achieve your business outcomes.</h2> 
       <StaticImage
       src="../images/jopwell-sm.webp"
       width={400}
