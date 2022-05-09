@@ -595,3 +595,7 @@ pre tt:after {
     font-size: 100%;
   }
 }
+.paragraphImage{
+  position:relative;
+  float:right;
+}
