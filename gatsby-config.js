@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://smallvalleymedia.com`,
   },
   plugins: [
+    `gatsby-plugin-gatsby-cloud`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
