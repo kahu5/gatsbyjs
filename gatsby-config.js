@@ -14,6 +14,7 @@ module.exports = {
         optionA: true,
         optionB: `Another option`,
       },
+    },
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
