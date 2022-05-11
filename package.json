@@ -46,4 +46,3 @@
   // ...siteMetaData
   plugins: [`gatsby-plugin-recaptcha`];
 }
-}
