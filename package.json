@@ -42,4 +42,8 @@
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
+  module.exports = {
+  // ...siteMetaData
+  plugins: [`gatsby-plugin-recaptcha`];
+}
 }
