@@ -34,6 +34,13 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
-     `gatsby-plugin-recaptcha`,
+    // `gatsby-plugin-recaptcha`,
+    //    {
+    //  resolve: `gatsby-plugin-name`,
+   //   options: {
+   //     optionA: true,
+   //    optionB: `Another option`,
+    //  },
+   // },
   ],
 }
