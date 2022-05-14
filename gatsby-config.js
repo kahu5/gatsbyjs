@@ -35,14 +35,15 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    
     // `gatsby-plugin-recaptcha`,
     //    {
     //  resolve: `gatsby-plugin-recaptcha`,
-   //   options: {
+    //   options: {
     //     async: false,
     //     defer: false,
     //     args: `?onload=onloadCallback&render=explicit`,
     //  },
-   // },
+
   ],
 }
