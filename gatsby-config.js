@@ -37,10 +37,11 @@ module.exports = {
     // `gatsby-plugin-offline`,
     // `gatsby-plugin-recaptcha`,
     //    {
-    //  resolve: `gatsby-plugin-name`,
+    //  resolve: `gatsby-plugin-recaptcha`,
    //   options: {
-   //     optionA: true,
-   //    optionB: `Another option`,
+    //     async: false,
+    //     defer: false,
+    //     args: `?onload=onloadCallback&render=explicit`,
     //  },
    // },
   ],
