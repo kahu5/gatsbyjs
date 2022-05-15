@@ -15,6 +15,7 @@ class ContactForm extends React.Component {
       margin: '2px',
     }
     return (
+      <script src="https://www.google.com/recaptcha/api.js?render=6LeT66wdAAAAAJqA5-Aqn-383SqqQ3Y0efsDjQKe"></script>
       <form style={formStyle} className="form" action={this.props.action} method="post">
       <div className="formRow">
           <label>Full name</label>
@@ -30,7 +31,8 @@ class ContactForm extends React.Component {
             <li>
               <button type="submit" className="button special">Send</button>
             </li>
-        </ul></div>
+        </ul>
+          <input type="hidden" id="captchaResponse" name="g-recaptcha-response"></div>
       </form>
     );
   }
