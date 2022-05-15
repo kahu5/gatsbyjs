@@ -16,7 +16,7 @@ const SecondPage = () => (
 <section id="contactUs" className="main special">
     <header className="major">
         <h2>Reach out and we will return your email shortly.</h2>
-   // <ContactForm action="https://getform.io/f/2c4ddf21-bd0d-40e9-a111-7d0c59cf0809"></ContactForm>
+    <ContactForm action="https://getform.io/f/2c4ddf21-bd0d-40e9-a111-7d0c59cf0809"></ContactForm>
     </header>
 </section>
   </Layout>
