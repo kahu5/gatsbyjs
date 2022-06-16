@@ -37,7 +37,7 @@ const IndexPage = () => (
       className="paragraphImage"
       style={{ marginBottom: `1.45rem` }}
     />
-    <h4 style={{textAlign: "center",}}>Business Intelligence Reports</h4>
+    <h4 style={{textAlign: "center",}}>Actionable Business Reports</h4>
   </div>
     <div style={{backgroundColor: "#bdbdbd",}}>    <StaticImage
       src="../images/email_auth.webp"
@@ -48,7 +48,7 @@ const IndexPage = () => (
       className="paragraphImage"
       style={{ marginBottom: `1.45rem` }}
     />
-      <h4 style={{textAlign: "center",}}>Email Authentication</h4>
+      <h4 style={{textAlign: "center",}}>Ongoing Email Security</h4>
   </div>
     <div style={{backgroundColor: "#bdbdbd",}}>    <StaticImage
       src="../images/web_host.webp"
@@ -59,7 +59,7 @@ const IndexPage = () => (
       className="paragraphImage"
       style={{ marginBottom: `1.45rem` }}
     />
-        <h4 style={{textAlign: "center",}}>Secure Domain Management</h4>
+        <h4 style={{textAlign: "center",}}>Robust Domain Management</h4>
   </div>
   </div>
   </Layout>
