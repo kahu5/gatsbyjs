@@ -18,7 +18,7 @@ const IndexPage = () => (
       className="paragraphImage"
       style={{ marginBottom: `1.45rem` }}
     />
-  <p>We provide online hosting and communication infrastructure for your web solutions. Use your platform with confidence to advance business outomes now.</p>
+  <p>We provide online hosting and communication infrastructure for your web solutions. Use your platform with confidence to advance business outcomes now.</p>
    <p>Integrate your data sources into meaningful reporting you can take action on.</p>
 
   <ul class="actionList">
