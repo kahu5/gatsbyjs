@@ -16,11 +16,7 @@ class ContactForm extends React.Component {
       margin: '2px',
     }
     return (
-      <div className="application">
-            <Helmet>
-                <script src="https://www.google.com/recaptcha/api.js?render=6LeT66wdAAAAAJqA5-Aqn-383SqqQ3Y0efsDjQKe"></script>
-            </Helmet>
-      </div>
+
       <form style={formStyle} className="form" action={this.props.action} method="post">
       <div className="formRow">
           <label>Full name</label>
