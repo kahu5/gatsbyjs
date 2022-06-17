@@ -1,5 +1,5 @@
 import React from 'react'
-import {Helmet} from "react-helmet";
+//import {Helmet} from "react-helmet";
 
 class ContactForm extends React.Component {
 
@@ -33,7 +33,8 @@ class ContactForm extends React.Component {
               <button type="submit" className="button special">Send</button>
             </li>
         </ul>
-          <input type="hidden" id="captchaResponse" name="g-recaptcha-response"></div>
+          <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
+            </div>
       </form>
     );
   }
